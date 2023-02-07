@@ -1,0 +1,16 @@
+{
+    "name": "me.xenxei.UseCase",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1ef5e48a8118b174a82978db040d485e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

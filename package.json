@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "displayName": "Xenxei Achievement System",
     "description": "A project to create a scalable achievement system",
-    "unity": "2021.3.14",
+    "unity": "2021.3",
     "author": {
         "name": "Victor Romero Lopez",
         "email": "victor@romero.tech",
